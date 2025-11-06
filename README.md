@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## ConMLP: MLP-based Self-Supervised Contrastive Learning for Skeleton Data Analysis and Action Recognition
 
 
@@ -70,5 +70,4 @@ The framework is extended from the following repositories. We sincerely thank th
 
 3. The data extractor is based on [PSUMNet](https://github.com/skelemoa/psumnet/).
 =======
-# Batch_Thesis
->>>>>>> 0347e9c79865d06cd5e0cf3ee7d6f4abd16cc05b
+
